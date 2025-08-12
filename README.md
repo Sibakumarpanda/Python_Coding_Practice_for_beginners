@@ -30,7 +30,7 @@ The code will execute on the platform, and you can view the simulation results i
 
 -For more easier understanding, this whole repo is classified in to four different sections as below.
 
-# Python Fundamentals
+# A. Python Fundamentals
   1. Input and Output in Python
   2. Variables in Pyhton
   3. Operators in Python
@@ -42,7 +42,7 @@ The code will execute on the platform, and you can view the simulation results i
   9. Recursion in Python
   10. Lambada Function in Python
 
-# Python Data structures
+# B. Python Data structures
   1. String
   2. List
   3. Tuples
@@ -51,7 +51,7 @@ The code will execute on the platform, and you can view the simulation results i
   6. Arrays
   7. List Comprehensions
 
-# Advanced Python 
+# C. Advanced Python 
   1. Python OOPs Concepts
   2. Python Exception Handling
   3. File Handling in Python
@@ -63,7 +63,7 @@ The code will execute on the platform, and you can view the simulation results i
   9. Python DSA Libraries
  10. List of Python GUI Library and Packages
 
-# Data Science and Visualization with Python
+# D. Data Science and Visualization with Python
   1. NumPy Python Library
   2. Pandas Library
   3. Matplotlib Library
