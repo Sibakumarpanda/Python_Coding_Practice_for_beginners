@@ -26,7 +26,9 @@ The code will execute on the platform, and you can view the simulation results i
 
 ## Content of this Repository
 
-This repository contains the Basic Python Concepts , code examples with complete understanding as per below Outline . 
+-This whole repository contains the understanding from Basic Python Concepts & code examples to some what advanced topics.
+
+-For more easier understanding, this whole repo is classified in to four different sections as below.
 
 # Python Fundamentals
   1. Input and Output in Python
