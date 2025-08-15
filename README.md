@@ -31,7 +31,7 @@ The code will execute on the platform, and you can view the simulation results i
 -For more easier understanding, this whole repo is classified in to four different sections as below.
 
 # A. Python Fundamentals
-  1. Input and Output in Python
+  1. basic intro (Input,Output) in Python
   2. Variables in Pyhton
   3. Operators in Python
   4. Keywords in Python
