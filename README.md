@@ -32,7 +32,7 @@ The code will execute on the platform, and you can view the simulation results i
 
 # A. Python Fundamentals
   1. basic intro (Input,Output) in Python
-  2. Variables in Pyhton
+  2. Variables in Python
   3. Operators in Python
   4. Keywords in Python
   5. Datatypes in Python
